@@ -4,7 +4,7 @@
 
 //import 'package:animations/src/basics/home_screen.dart';
 import 'package:flutter/material.dart';
-import 'file:///C:/Users/Zhenia/Desktop/network_request_tutorial-master/lib/home_screen.dart';
+import 'home_screen.dart';
 
 
 import '01_animated_container.dart';
